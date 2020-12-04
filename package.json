@@ -11,5 +11,20 @@
   "license": "Apache-2.0",
   "dependencies": {
     "electron": "^10.1.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geomty/Click-The-Cat.git"
+  },
+  "keywords": [
+    "click",
+    "cat",
+    "fun",
+    "game"
+  ],
+  "bugs": {
+    "url": "https://github.com/Geomty/Click-The-Cat/issues"
+  },
+  "homepage": "https://github.com/Geomty/Click-The-Cat#readme"
 }
